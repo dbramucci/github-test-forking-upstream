@@ -5,3 +5,5 @@ That's unfortunate;
 I'll just branch instead.
 
 I'm writing some more, because I thought that would be good.
+
+I want to know what a merge looks like here.

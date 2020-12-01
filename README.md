@@ -10,3 +10,6 @@ The only thing that changes is the unrelated `README.md` file, which isn't easy 
 Also, here's the [pull request](https://github.com/dbramucci/github-test-forking-upstream/pull/2) which get's more filler and "dead end commits" as time goes on.
 Strangely, it appears that the repeating push messages in the pull request only show up while my browser window is open.
 When I open it again, they've disappeared.
+
+That really appears to be the case.
+When I refresh the page, the old commits disappear.

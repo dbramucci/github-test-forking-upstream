@@ -13,3 +13,7 @@ When I open it again, they've disappeared.
 
 That really appears to be the case.
 When I refresh the page, the old commits disappear.
+
+Here's a picture of the unrefreshed page.
+
+![Multiple copies of commits](pull-request-duplication.png)
